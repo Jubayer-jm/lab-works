@@ -1,7 +1,7 @@
 # Lab_Thread_Counter: Static vs Non-Static Counter in Multithreading
 
-**Name:** ____________  
-**ID:** ____________
+**Name:** __Jubayer ahmed__________  
+**ID:** __IT-24027__________
 
 ## 1. Files
 - `jubayer_thread.java`: Java source code (single class)
